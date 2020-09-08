@@ -1,0 +1,48 @@
+.post-bar {
+    height: 12em;
+    width: 100%;
+    background-color:#e84545;
+    margin-bottom: -8em;
+}
+
+.header{
+    width: 90%;
+    padding: 4em;
+    background-color:#2b2e4a;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    color:white;
+    
+}
+
+.barra{
+    background-color: #903749 !important;
+}
+
+.boton{
+    background-color: #e84545 !important;
+}
+
+.resume-image{
+    height: 10em;
+    width: 10em;
+    border-radius: 50%;
+    
+}
+.icons {
+    display: flex;
+    justify-content: center;
+}
+
+.icon {
+    height: 1.5em;
+    width: 1.5em;
+    margin: 0 0.5em;
+}
+#cv-button{
+    margin-top: 3em;
+}
+
