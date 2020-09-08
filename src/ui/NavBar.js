@@ -4,12 +4,12 @@ import { Link, NavLink } from 'react-router-dom'
 export const NavBar = () => {
     return (
         <>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav class="navbar navbar-expand-lg navbar-light bg-primary">
             <Link 
                 className="navbar-brand"
                 to="/"
             >
-            Home
+                <img src="/mexicano.png" width="30" height="30" className="d-inline-block align-top" alt="" loading="lazy"></img>
             </Link>
             <div class="navbar-collapse">
                 <div class="navbar-nav">
