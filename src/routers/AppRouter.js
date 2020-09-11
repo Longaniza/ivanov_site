@@ -5,9 +5,8 @@ import {
   Route,
 } from "react-router-dom";
 import { ResumeScreen } from "../Components/ResumeScreen";
-import { AboutMeScreen } from "../Components/AboutMeScreen";
-import { ContactMeScreen } from "../Components/ContactMeScreen";
 import { NavBar } from "../ui/NavBar";
+import { ProjectsScreen } from "../Components/ProjectsScreen";
 
 export default function AppRouter() {
     return (
@@ -23,13 +22,8 @@ export default function AppRouter() {
                         />
                         <Route 
                             exact 
-                            path="/about" 
-                            component={AboutMeScreen}
-                        />
-                        <Route 
-                            exact 
-                            path="/contact" 
-                            component={ContactMeScreen}
+                            path="/projects" 
+                            component={ProjectsScreen}
                         />
                     </Switch>
                 </div>

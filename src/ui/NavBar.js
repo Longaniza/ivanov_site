@@ -6,7 +6,7 @@ import '../styles.css'
 export const NavBar = () => {
     return (
         <>
-        <nav className="navbar navbar-expand-lg navbar-dark bg-danger fixed-top barra">
+        <nav className="navbar navbar-expand-lg navbar-dark bg-danger  barra">
             <Link 
                 className="navbar-brand"
                 to="/"
@@ -27,9 +27,9 @@ export const NavBar = () => {
                         activeClassName="active"
                         className="nav-item nav-link"
                         exact
-                        to="/contact"
+                        to="/projects"
                     >
-                    Contact me
+                    Work
                     </NavLink>
                 </div>
             </div>
