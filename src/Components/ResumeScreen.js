@@ -13,29 +13,60 @@ export const ResumeScreen = () => {
                     <a href="https://www.linkedin.com/in/jose-ivanov-ramirez-tirado-b3200a178/"><img className="icon" src="/linkedin.png"></img></a>
                     <a href="https://github.com/Longaniza"><img className="icon" src="/github.png"></img></a>
                 </div>
-                <a id="cv-button" className="btn btn-danger boton">Download CV</a>
+                
+                <a href="./ivanov_cv.pdf" id="cv-button" className="btn btn-danger boton" download="ivanov_cv">Download CV</a>
             </div>
             <div className="personal-information">
             <div className="about-info">
-            <h3>About</h3>
+            <h3 className="resume-title">About</h3>
             <p>
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
             </p>
 
             </div>
             <div className="about-info">
-            <h3>Basic Information</h3>
+            <h3 className="resume-title">Basic Information</h3>
                 <div id="basic-info">
-                <p className="row1-col1">Date of birth:</p>
+                <p className="row1-col1 resume-subtitle">Date of birth:</p>
                 <p className="row1-col2">1 May,1998</p>
-                <p className="row2-col1">Place of birth:</p>
+                <p className="row2-col1 resume-subtitle">Place of birth:</p>
                 <p className="row2-col2">Tijuana, Mexico</p>
-                <p className="row3-col1">Language</p>
+                <p className="row3-col1 resume-subtitle">Language:</p>
                 <p className="row3-col2">Spanish,English</p>
-                <p className="row4-col1">Gender</p>
+                <p className="row4-col1 resume-subtitle">Gender:</p>
                 <p className="row4-col2">Male</p>
                 </div>
             </div>
+            </div>
+            <div className="skills">
+                <div className="about-info">
+                    <h3 className="resume-title">Skills and Tools</h3>
+                    <ul className="skill-list resume-subtitle" >
+                        <li>HTML</li>
+                        <li>CSS</li>
+                        <li>JavaScript</li>
+                        <li>React</li>
+                        <li>Node</li>
+                        <li>MongoDB</li>
+                        <li>SQL</li>
+                        <li>Control Version with Git</li>
+                        <li>Scrum</li>
+                    </ul>
+                </div>
+                <img src="/mern.jpg" className="row1-col2 sds"></img>
+            </div>
+
+            <div className="education">
+                <h1 className="resume-title">Education</h1>
+                <div className="education-container">
+                <div className="cetys">
+                <img src="/cetys.jpeg" className="educ-img"></img>
+                </div>
+                <div className="education-container-text">
+                <h3 className="education-container-text-content resume-subtitle">CETYS Universidad</h3>
+                <p className="education-container-text-content resume-title">Ing. en Ciencias Computacionales, 2016-2020 </p>
+                </div>
+                </div>
             </div>
         </div>
     )
