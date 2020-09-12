@@ -6,12 +6,12 @@ export const ResumeScreen = () => {
         <div className="principal">
             <div className="post-bar"></div>
             <div className="header">
-                <img className="resume-image" src= "/ivanov.jpg"></img>
+                <img className="resume-image" src= "/ivanov.jpg" alt="profile"></img>
                 <h1>I'm Jose Ivanov Ramirez Tirado</h1>
                 <h5>Front End Developer</h5>
                 <div className="icons">
-                    <a href="https://www.linkedin.com/in/jose-ivanov-ramirez-tirado-b3200a178/"><img className="icon" src="/linkedin.png"></img></a>
-                    <a href="https://github.com/Longaniza"><img className="icon" src="/github.png"></img></a>
+                    <a href="https://www.linkedin.com/in/jose-ivanov-ramirez-tirado-b3200a178/"><img className="icon" src="/linkedin.png" alt="linkedin-icon"></img></a>
+                    <a href="https://github.com/Longaniza"><img className="icon" src="/github.png" alt="github-icon"></img></a>
                 </div>
                 
                 <a href="./ivanov_cv.pdf" id="cv-button" className="btn btn-danger boton" download="ivanov_cv">Download CV</a>
@@ -53,14 +53,14 @@ export const ResumeScreen = () => {
                         <li>Scrum</li>
                     </ul>
                 </div>
-                <img src="/mern.jpg" className="row1-col2 skills-image"></img>
+                <img src="/mern.jpg" className="row1-col2 skills-image" alt="skills"></img>
             </div>
 
             <div className="education">
                 <h1 className="resume-title">Education</h1>
                 <div className="education-container">
                 <div className="cetys">
-                <img src="/cetys.jpeg" className="educ-img"></img>
+                <img src="/cetys.jpeg" className="educ-img" alt="1-education"></img>
                 </div>
                 <div className="education-container-text">
                 <h3 className="education-container-text-content resume-subtitle">CETYS Universidad</h3>
