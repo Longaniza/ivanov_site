@@ -8,7 +8,7 @@ export const ResumeScreen = () => {
             <div className="header">
                 <img className="resume-image" src= "/ivanov.jpg" alt="profile"></img>
                 <h1>I'm Jose Ivanov Ramirez Tirado</h1>
-                <h5>Front End Developer</h5>
+                <h5>Web Developer</h5>
                 <div className="icons">
                     <a href="https://www.linkedin.com/in/jose-ivanov-ramirez-tirado-b3200a178/"><img className="icon" src="/linkedin.png" alt="linkedin-icon"></img></a>
                     <a href="https://github.com/Longaniza"><img className="icon" src="/github.png" alt="github-icon"></img></a>
@@ -20,7 +20,7 @@ export const ResumeScreen = () => {
             <div className="about-info">
             <h3 className="resume-title">About</h3>
             <p>
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum"
+            I'm Jose Ivanov Ramirez Tirado.I was born at Tijuana, México. I'm a 22 years old Web Developer graduated in 2020 at CETYS Universidad with a Computer Science degree. I just like to consume and make technology. 
             </p>
 
             </div>
