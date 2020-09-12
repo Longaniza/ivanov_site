@@ -111,7 +111,7 @@ body {
     
 }
 
-.sds {
+.skills-image {
     width: 100%;
 }
 .skill-list {
@@ -192,28 +192,17 @@ body {
     text-decoration: none;
     color:black;
 }
-
-.ass {
-    margin-top: 3em;
-}
-
-.zzz {
+.projects-container {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
     align-content: space-around;
 }
 
-
-
 .dentro {
     width: 100%;
     
     
-}
-
-.aas {
-    width: 80%;
 }
 
 .work-description {
@@ -228,7 +217,7 @@ body {
         background-color: white;
     
     }
-    .zzz {
+    .projects-container{
         display: flex;
         flex-direction: column;
         margin: 0 auto !important;

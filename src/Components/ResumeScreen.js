@@ -53,7 +53,7 @@ export const ResumeScreen = () => {
                         <li>Scrum</li>
                     </ul>
                 </div>
-                <img src="/mern.jpg" className="row1-col2 sds"></img>
+                <img src="/mern.jpg" className="row1-col2 skills-image"></img>
             </div>
 
             <div className="education">

@@ -7,7 +7,7 @@ export const ProjectsScreen= () => {
             
             <div className="education">
             <h3 className="resume-title">Work</h3>
-            <div className="zzz ">
+            <div className="projects-container">
             
             <a className="img" href="https://longaniza.github.io/todoAppVainilla/">
                 
