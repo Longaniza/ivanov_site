@@ -1,33 +1,36 @@
 import React from "react";
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
+  HashRouter,
+  Redirect
 } from "react-router-dom";
 import { ResumeScreen } from "../Components/ResumeScreen";
 import { NavBar } from "../ui/NavBar";
 import { ProjectsScreen } from "../Components/ProjectsScreen";
 
 export default function AppRouter() {
+    console.log(process.env.PUBLIC_URL);
     return (
         <>
-            <Router>
+            <HashRouter>
                 <NavBar/>
                 <div>
                     <Switch>
                         <Route 
                             exact 
-                            path="/" 
+                            path={process.env.PUBLIC_URL + '/'} 
                             component={ResumeScreen}
                         />
                         <Route 
                             exact 
-                            path="/projects" 
+                            path={process.env.PUBLIC_URL + '/projects'}
                             component={ProjectsScreen}
                         />
+                        <Redirect to={process.env.PUBLIC_URL + '/'}/>
                     </Switch>
                 </div>
-            </Router>
+            </HashRouter>
         </>
     ); 
 }

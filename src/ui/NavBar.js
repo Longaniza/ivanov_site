@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link, NavLink } from 'react-router-dom'
 import '../styles.css'
+import mexicano from '../images/mexicano.png'
 
 
 export const NavBar = () => {
@@ -9,9 +10,9 @@ export const NavBar = () => {
         <nav className="navbar navbar-expand-lg navbar-dark bg-danger  barra">
             <Link 
                 className="navbar-brand"
-                to="/"
+                to={process.env.PUBLIC_URL + '/'}
             >
-                <img src="/mexicano.png" width="30" height="30" className="d-inline-block align-top" alt="" loading="lazy"></img>
+                <img src={mexicano} width="30" height="30" className="d-inline-block align-top" alt="" loading="lazy"></img>
             </Link>
             <div className="navbar-collapse">
                 <div className="navbar-nav">
@@ -19,7 +20,7 @@ export const NavBar = () => {
                         activeClassName="active"
                         className="nav-item nav-link"
                         exact
-                        to="/"
+                        to={process.env.PUBLIC_URL + '/'}
                     >
                     Resume
                     </NavLink>
@@ -27,7 +28,7 @@ export const NavBar = () => {
                         activeClassName="active"
                         className="nav-item nav-link"
                         exact
-                        to="/projects"
+                        to={process.env.PUBLIC_URL + "/projects"}
                     >
                     Work
                     </NavLink>
