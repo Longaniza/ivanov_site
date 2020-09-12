@@ -164,11 +164,12 @@ body {
 }
 
 .education-container {
-    display: inline-flex;
+    display: flex;
     border-style: solid;
     border-width: 1px;
     margin-top: 1.5em;
     height: 30%;
+    width: 90%;
 }
 
 .educ-img {
@@ -235,6 +236,25 @@ body {
     p,h1,h2,h3,h4,h5{
         width: 90%;
         word-wrap: break-word;
+        
+    }
+    .education-container {
+       flex-direction: column;
+    }
+    .cetys {
+        width: 70%;
+        margin: 0 auto;
+        
+    }
+    .education-container-text {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        border-left-style: none;
+        border-top-style: solid;
+        border-width: 1px;
         
     }
     :root {
