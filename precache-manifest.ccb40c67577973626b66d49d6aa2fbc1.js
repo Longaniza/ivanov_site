@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d71610ef2ad2d9d17234798e1aed28a0",
+    "revision": "5ccef63e402fe46a72ebcafea16972b8",
     "url": "/ivanov_site/index.html"
   },
   {
-    "revision": "40e87201ee4ef395f6eb",
+    "revision": "38de62f8fd796fab3142",
     "url": "/ivanov_site/static/css/main.a21ffcff.chunk.css"
   },
   {
-    "revision": "0e6c4f4717e8b3f61838",
-    "url": "/ivanov_site/static/js/2.4fe0e1c5.chunk.js"
+    "revision": "2bec64dda9a70dacf606",
+    "url": "/ivanov_site/static/js/2.3127f8cb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ivanov_site/static/js/2.4fe0e1c5.chunk.js.LICENSE.txt"
+    "url": "/ivanov_site/static/js/2.3127f8cb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40e87201ee4ef395f6eb",
-    "url": "/ivanov_site/static/js/main.8461fdfc.chunk.js"
+    "revision": "38de62f8fd796fab3142",
+    "url": "/ivanov_site/static/js/main.e6040fdb.chunk.js"
   },
   {
     "revision": "3c4c1059d3f61f9a7dd9",
@@ -38,5 +38,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "79ab148d32e3366d84ccb3e18f4a1c21",
     "url": "/ivanov_site/static/media/mern.79ab148d.jpg"
+  },
+  {
+    "revision": "94a853191d29bcf14c38a595b2a867fe",
+    "url": "/ivanov_site/static/media/mexicano.94a85319.png"
+  },
+  {
+    "revision": "245f68b4b06e984d6e0d478b8e030b43",
+    "url": "/ivanov_site/static/media/todovainilla.245f68b4.png"
   }
 ]);
