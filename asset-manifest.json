@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ivanov_site/static/css/main.a21ffcff.chunk.css",
+    "main.js": "/ivanov_site/static/js/main.b2172290.chunk.js",
+    "main.js.map": "/ivanov_site/static/js/main.b2172290.chunk.js.map",
+    "runtime-main.js": "/ivanov_site/static/js/runtime-main.b0ddd9b6.js",
+    "runtime-main.js.map": "/ivanov_site/static/js/runtime-main.b0ddd9b6.js.map",
+    "static/js/2.c8277e2c.chunk.js": "/ivanov_site/static/js/2.c8277e2c.chunk.js",
+    "static/js/2.c8277e2c.chunk.js.map": "/ivanov_site/static/js/2.c8277e2c.chunk.js.map",
+    "index.html": "/ivanov_site/index.html",
+    "precache-manifest.c1ac0c5033cbf2a0f02cfa5fd4fbed0a.js": "/ivanov_site/precache-manifest.c1ac0c5033cbf2a0f02cfa5fd4fbed0a.js",
+    "service-worker.js": "/ivanov_site/service-worker.js",
+    "static/css/main.a21ffcff.chunk.css.map": "/ivanov_site/static/css/main.a21ffcff.chunk.css.map",
+    "static/js/2.c8277e2c.chunk.js.LICENSE.txt": "/ivanov_site/static/js/2.c8277e2c.chunk.js.LICENSE.txt",
+    "static/media/ivanov.jpg": "/ivanov_site/static/media/ivanov.9d35992f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0ddd9b6.js",
+    "static/js/2.c8277e2c.chunk.js",
+    "static/css/main.a21ffcff.chunk.css",
+    "static/js/main.b2172290.chunk.js"
+  ]
+}
