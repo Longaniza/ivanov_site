@@ -1,12 +1,13 @@
 import React from 'react';
 import '../styles.css'
+import profile from '../images/ivanov.jpg';
 
 export const ResumeScreen = () => {
     return (
         <div className="principal">
             <div className="post-bar"></div>
             <div className="header">
-                <img className="resume-image" src= "./ivanov.jpg" alt="profile"></img>
+                <img className="resume-image" src={profile} alt="profile"></img>
                 <h1>I'm Jose Ivanov Ramirez Tirado</h1>
                 <h5>Web Developer</h5>
                 <div className="icons">
