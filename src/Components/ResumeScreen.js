@@ -6,7 +6,7 @@ export const ResumeScreen = () => {
         <div className="principal">
             <div className="post-bar"></div>
             <div className="header">
-                <img className="resume-image" src= "/ivanov.jpg" alt="profile"></img>
+                <img className="resume-image" src= "./ivanov.jpg" alt="profile"></img>
                 <h1>I'm Jose Ivanov Ramirez Tirado</h1>
                 <h5>Web Developer</h5>
                 <div className="icons">
