@@ -62,6 +62,7 @@ body {
     background-color: white;
 
 }
+
 .about-info {
     padding: 3em 0 3em 3em;
 }
@@ -109,6 +110,7 @@ body {
     grid-template-rows: 25% 25% 25% 25%;
     
 }
+
 .sds {
     width: 100%;
 }
@@ -134,15 +136,17 @@ body {
     background-color: white;
     padding: 4em;
     margin-bottom: 3em;
+    box-sizing: border-box;
     
 }
 
 .cetys {
-    height: 15%;
     width: 15%;
+    line-height: 100%;
+    box-sizing: border-box;
     display: flex;
     justify-content: center;
-    
+    align-items: center;
 }
 .education-container-text {
     display: flex;
@@ -160,18 +164,19 @@ body {
 }
 
 .education-container {
-    display: flex;
+    display: inline-flex;
     border-style: solid;
     border-width: 1px;
     margin-top: 1.5em;
+    height: 30%;
 }
 
 .educ-img {
-    width: 100%;
+    max-width: 80%;
 }
 
 .img {
-    max-width:30%; 
+    width:30%; 
     height:auto;
     border-style: solid; 
     border-width: 5px;
@@ -214,3 +219,38 @@ body {
 .work-description {
     width: 80%;
 }
+
+@media(max-width: 650px){
+    .personal-information{
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto !important;
+        background-color: white;
+    
+    }
+    .zzz {
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto !important;
+        
+    }
+    .img {
+        width: 90%;
+    }
+    :root {
+        font-size: 0.85em;
+    }
+}
+
+
+@media(max-width: 450px){
+    p,h1,h2,h3,h4,h5{
+        width: 90%;
+        word-wrap: break-word;
+        
+    }
+    :root {
+        font-size: 0.750em;
+    }
+}
+
