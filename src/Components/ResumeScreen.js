@@ -27,7 +27,7 @@ export const ResumeScreen = () => {
             <div className="about-info">
             <h3 className="resume-title">About</h3>
             <p>
-            I'm Jose Ivanov Ramirez Tirado.I was born at Tijuana, México. I'm a 22 years old Web Developer graduated in 2020 at CETYS Universidad with a Computer Science degree. I just like to consume and make technology. 
+            I'm Jose Ivanov Ramirez Tirado.I was born in Tijuana, México. I'm a 22 years old Web Developer graduated in 2020 with a Computer Science degree. One of my biggest hobbies right now is programming; I just like to consume and make technology. 
             </p>
 
             </div>
@@ -53,10 +53,11 @@ export const ResumeScreen = () => {
                         <li>CSS</li>
                         <li>JavaScript</li>
                         <li>React</li>
+                        <li>Redux</li>
                         <li>Node</li>
                         <li>MongoDB</li>
-                        <li>SQL</li>
-                        <li>Control Version with Git</li>
+                        <li>SQL with MySQL</li>
+                        <li>Control Version with Git and Github</li>
                         <li>Scrum</li>
                     </ul>
                 </div>
