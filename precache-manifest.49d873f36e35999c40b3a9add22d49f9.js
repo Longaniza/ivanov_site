@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8b0183e4282effc524192a3645a4d4e",
+    "revision": "21839db7433542915125ad6133df9a01",
     "url": "/ivanov_site/index.html"
   },
   {
-    "revision": "045fca1cfb42015fba70",
+    "revision": "485377174d40086955a5",
     "url": "/ivanov_site/static/css/main.a21ffcff.chunk.css"
   },
   {
-    "revision": "acb80133189382675299",
-    "url": "/ivanov_site/static/js/2.ff873fce.chunk.js"
+    "revision": "31a76ddad61e4afd8000",
+    "url": "/ivanov_site/static/js/2.a347220c.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ivanov_site/static/js/2.ff873fce.chunk.js.LICENSE.txt"
+    "url": "/ivanov_site/static/js/2.a347220c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "045fca1cfb42015fba70",
-    "url": "/ivanov_site/static/js/main.41029b77.chunk.js"
+    "revision": "485377174d40086955a5",
+    "url": "/ivanov_site/static/js/main.932ba29e.chunk.js"
   },
   {
     "revision": "3c4c1059d3f61f9a7dd9",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "94a853191d29bcf14c38a595b2a867fe",
     "url": "/ivanov_site/static/media/mexicano.94a85319.png"
+  },
+  {
+    "revision": "65d9e27a2e1fd227fb384cdb065d7f80",
+    "url": "/ivanov_site/static/media/pig.65d9e27a.png"
   },
   {
     "revision": "eb8e86ce0c5085553701e47bd0ff546b",
