@@ -1,30 +1,32 @@
 {
   "files": {
     "main.css": "/ivanov_site/static/css/main.a21ffcff.chunk.css",
-    "main.js": "/ivanov_site/static/js/main.932ba29e.chunk.js",
-    "main.js.map": "/ivanov_site/static/js/main.932ba29e.chunk.js.map",
+    "main.js": "/ivanov_site/static/js/main.8c87a360.chunk.js",
+    "main.js.map": "/ivanov_site/static/js/main.8c87a360.chunk.js.map",
     "runtime-main.js": "/ivanov_site/static/js/runtime-main.b0ddd9b6.js",
     "runtime-main.js.map": "/ivanov_site/static/js/runtime-main.b0ddd9b6.js.map",
-    "static/js/2.a347220c.chunk.js": "/ivanov_site/static/js/2.a347220c.chunk.js",
-    "static/js/2.a347220c.chunk.js.map": "/ivanov_site/static/js/2.a347220c.chunk.js.map",
+    "static/js/2.12818bb2.chunk.js": "/ivanov_site/static/js/2.12818bb2.chunk.js",
+    "static/js/2.12818bb2.chunk.js.map": "/ivanov_site/static/js/2.12818bb2.chunk.js.map",
     "index.html": "/ivanov_site/index.html",
-    "precache-manifest.49d873f36e35999c40b3a9add22d49f9.js": "/ivanov_site/precache-manifest.49d873f36e35999c40b3a9add22d49f9.js",
+    "precache-manifest.8896722ca0ed835350657dc358be1dea.js": "/ivanov_site/precache-manifest.8896722ca0ed835350657dc358be1dea.js",
     "service-worker.js": "/ivanov_site/service-worker.js",
     "static/css/main.a21ffcff.chunk.css.map": "/ivanov_site/static/css/main.a21ffcff.chunk.css.map",
-    "static/js/2.a347220c.chunk.js.LICENSE.txt": "/ivanov_site/static/js/2.a347220c.chunk.js.LICENSE.txt",
+    "static/js/2.12818bb2.chunk.js.LICENSE.txt": "/ivanov_site/static/js/2.12818bb2.chunk.js.LICENSE.txt",
     "static/media/github.png": "/ivanov_site/static/media/github.d22ee372.png",
     "static/media/ivanov.jpg": "/ivanov_site/static/media/ivanov.9d35992f.jpg",
     "static/media/ivanov_cv.pdf": "/ivanov_site/static/media/ivanov_cv.f93db9d1.pdf",
+    "static/media/memo.png": "/ivanov_site/static/media/memo.9e4da926.png",
     "static/media/mern.jpg": "/ivanov_site/static/media/mern.79ab148d.jpg",
     "static/media/mexicano.png": "/ivanov_site/static/media/mexicano.94a85319.png",
     "static/media/pig.png": "/ivanov_site/static/media/pig.65d9e27a.png",
     "static/media/swapp.png": "/ivanov_site/static/media/swapp.eb8e86ce.png",
-    "static/media/todovainilla.png": "/ivanov_site/static/media/todovainilla.245f68b4.png"
+    "static/media/todovainilla.png": "/ivanov_site/static/media/todovainilla.ed1de1c2.png",
+    "static/media/zoo.png": "/ivanov_site/static/media/zoo.9e8c3fe4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b0ddd9b6.js",
-    "static/js/2.a347220c.chunk.js",
+    "static/js/2.12818bb2.chunk.js",
     "static/css/main.a21ffcff.chunk.css",
-    "static/js/main.932ba29e.chunk.js"
+    "static/js/main.8c87a360.chunk.js"
   ]
 }
