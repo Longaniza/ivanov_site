@@ -15,7 +15,7 @@ export const ProjectsScreen= () => {
             <div className="education">
             <h3 className="resume-title">Projects</h3>
             <div className="projects-container">
-            <a className="img" href="https://longaniza.github.io/todoAppVainilla/">
+            <a className="img" href="https://longaniza.github.io/ProyectoFinalJSBeduFinal/">
             <img className="dentro" src={todo} alt="1-work"></img>
             <h4 className="resume-title">Todo App</h4>
             <p className="work-description">Web app made with HTML5, CSS3 and JavaScript. To do's saved using localStorage.</p>
