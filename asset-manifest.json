@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/ivanov_site/static/css/main.a21ffcff.chunk.css",
-    "main.js": "/ivanov_site/static/js/main.8c87a360.chunk.js",
-    "main.js.map": "/ivanov_site/static/js/main.8c87a360.chunk.js.map",
+    "main.js": "/ivanov_site/static/js/main.9504a4d1.chunk.js",
+    "main.js.map": "/ivanov_site/static/js/main.9504a4d1.chunk.js.map",
     "runtime-main.js": "/ivanov_site/static/js/runtime-main.b0ddd9b6.js",
     "runtime-main.js.map": "/ivanov_site/static/js/runtime-main.b0ddd9b6.js.map",
     "static/js/2.12818bb2.chunk.js": "/ivanov_site/static/js/2.12818bb2.chunk.js",
     "static/js/2.12818bb2.chunk.js.map": "/ivanov_site/static/js/2.12818bb2.chunk.js.map",
     "index.html": "/ivanov_site/index.html",
-    "precache-manifest.8896722ca0ed835350657dc358be1dea.js": "/ivanov_site/precache-manifest.8896722ca0ed835350657dc358be1dea.js",
+    "precache-manifest.cb8a69ad53a82665cdc0df808fcded58.js": "/ivanov_site/precache-manifest.cb8a69ad53a82665cdc0df808fcded58.js",
     "service-worker.js": "/ivanov_site/service-worker.js",
     "static/css/main.a21ffcff.chunk.css.map": "/ivanov_site/static/css/main.a21ffcff.chunk.css.map",
     "static/js/2.12818bb2.chunk.js.LICENSE.txt": "/ivanov_site/static/js/2.12818bb2.chunk.js.LICENSE.txt",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.b0ddd9b6.js",
     "static/js/2.12818bb2.chunk.js",
     "static/css/main.a21ffcff.chunk.css",
-    "static/js/main.8c87a360.chunk.js"
+    "static/js/main.9504a4d1.chunk.js"
   ]
 }
